@@ -3,6 +3,7 @@ This project realizes the recognition of product identification cahracters based
 
 
 -------------------- 中文 --------------------
+
 开发软件工具版本
     训练环境: PyCharm+Python3.7+GPU
     测试环境: PyCharm+Python3.7+CPU
@@ -29,6 +30,7 @@ This project realizes the recognition of product identification cahracters based
 
 
 -------------------- English --------------------
+
 Code Function
      a. Folder 'train_ Code': The folder contains two sub folders, namely train_ctpn and train_crnn. 
         The former is used to train the text detection model CTPN, and the latter is used to train the text recognition model CRNN.
