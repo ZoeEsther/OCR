@@ -1,23 +1,21 @@
 # OCR
-This project realizes the recognition of product identification cahracters based on CRNN and CTPN, mainly involving English alphabet and Punctuation. It includes a visual GUI interface that allows for adaptive adjustment of overexposed or dark images.
-
-
 -------------------- 中文 --------------------
+# 本项目实现了基于CRNN和CTPN的产品识别字符的识别，主要涉及英文字母和标点符号。它包括一个可视化的GUI界面，允许自适应调整过度曝光或黑暗的图像。
 
-开发软件工具版本
+# 开发软件工具版本
     训练环境: PyCharm+Python3.7+GPU
     测试环境: PyCharm+Python3.7+CPU
     主要Packages及对应版本:
-	                     torch       	                1.8.1
-	                     torchvision	                0.9.1
-	                     OpenCv-python           	    4.5.1.48
-	                     numpy	                      1.16.6
+	               torch       	            1.8.1
+	               torchvision	            0.9.1
+	               OpenCv-python           	    4.5.1.48
+	               numpy	                    1.16.6
                        cv                           1.0.0
                        matplotlib                   3.3.2
                        pandas                       1.1.4
                        trans                        2.1.0
 
-代码功能
+# 代码功能
      a. 文件夹train_code：包含train_ctpn、train_crnn两个文件夹，前者为文本检测模型CTPN训练文件夹，后者为文字识别模型CRNN的训练文件夹。
          将模型训练需要的训练数据放入对应的train_data（CRNN网络模型还需要验证集val_data)，运行ctpn_train.py、train_pytorch_ctc.py即开始训练模型。
          其他.py文件均内含训练模型所需的函数。
@@ -30,8 +28,9 @@ This project realizes the recognition of product identification cahracters based
 
 
 -------------------- English --------------------
+# This project realizes the recognition of product identification cahracters based on CRNN and CTPN, mainly involving English alphabet and Punctuation. It includes a visual GUI interface that allows for adaptive adjustment of overexposed or dark images.
 
-Code Function
+# Code Function
      a. Folder 'train_ Code': The folder contains two sub folders, namely train_ctpn and train_crnn. 
         The former is used to train the text detection model CTPN, and the latter is used to train the text recognition model CRNN.
         Put each training set into the corresponding folder named train_data, and run ctpn_train.py or train_pytoorch_ctc.py to start training the model.
@@ -43,7 +42,7 @@ Code Function
      f. HSV, Median, sharpness and other folders are image processing-related codes.
      g. demo.py is a code that combines text detection and text recognition with complete character recognition function.
 
-Configuration environment
+# Configuration environment
      Major packages and corresponding versions:
          torch       	                1.8.1
          torchvision	                0.9.1
