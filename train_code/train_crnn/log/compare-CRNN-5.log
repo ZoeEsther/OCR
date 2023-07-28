@@ -1,0 +1,31 @@
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000000.jpg
+pred  :+lsdestac(确
+target:accurately localizes text lines
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000001.jpg
+pred  :intcocpocstedlint.e ！hie seomchucions
+target:incorporated into the convolutional
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000002.jpg
+pred  :snsmcscdc.csscay/iusamnostsmetec
+target:proposals directly inconvolutional feature
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000003.jpg
+pred  :ThlsqlowstheC TPM
+target:This allows the CTPN
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000004.jpg
+pred  :luocge. M E RTY7o ll0PAS
+target:image. WE RTYYU IIOPAS
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000005.jpg
+pred  :inasecuenceot
+target:in a sequence of
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000006.jpg
+pred  :nethw orkxcdlhtaBSDR
+target:network, xdht AES DR
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000007.jpg
+pred  :如es曰yecoiteseodes（27).0mee
+target:deep VGG16 model [27].Online
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000008.jpg
+pred  :：：：lsex.e：eu出see出
+target:reliably on multi-scale and
+filename:D:/OCR/train_code/train_crnn/test_data/data/spec_02_00000009.jpg
+pred  :lec h ess02ssenci06i
+target:It achieves 0.88and 0.61
+ocr_correct: 0/10/0.0

@@ -1,0 +1,10 @@
+spec_02_00000000.jpg accurately localizes text lines
+spec_02_00000001.jpg incorporated into the convolutional
+spec_02_00000002.jpg proposals directly inconvolutional feature
+spec_02_00000003.jpg This allows the CTPN
+spec_02_00000004.jpg image. WE RTYYU IIOPAS
+spec_02_00000005.jpg in a sequence of
+spec_02_00000006.jpg network, xdht AES DR
+spec_02_00000007.jpg deep VGG16 model [27].Online
+spec_02_00000008.jpg reliably on multi-scale and
+spec_02_00000009.jpg It achieves 0.88and 0.61
