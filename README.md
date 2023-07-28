@@ -1,5 +1,5 @@
 # OCR
-# ---------------------------------------- 中文 ----------------------------------------
+# ----------------------------- 中文 -----------------------------
 # 本项目实现了基于CRNN和CTPN的产品识别字符的识别，主要涉及英文字母和标点符号。它包括一个可视化的GUI界面，允许自适应调整过度曝光或黑暗的图像。
 
 # 开发软件工具版本
@@ -47,7 +47,7 @@ GUI界面及识别效果图：
 ![image](https://github.com/ZoeEsther/OCR/assets/119051069/243d1970-2888-428e-8f49-66ef6c7277a9)
 
 
-# ---------------------------------------- English ----------------------------------------
+# ----------------------------- English -----------------------------
 # This project realizes the recognition of product identification cahracters based on CRNN and CTPN, mainly involving English alphabet and Punctuation. It includes a visual GUI interface that allows for adaptive adjustment of overexposed or dark images.
 
 # Code Function
