@@ -6,14 +6,14 @@
     训练环境: PyCharm+Python3.7+GPU
     测试环境: PyCharm+Python3.7+CPU
     主要Packages及对应版本:
-	               torch       	            1.8.1
-	               torchvision	            0.9.1
-	               OpenCv-python           	    4.5.1.48
-	               numpy	                    1.16.6
-                       cv                           1.0.0
-                       matplotlib                   3.3.2
-                       pandas                       1.1.4
-                       trans                        2.1.0
+       torch       	            1.8.1
+       torchvision	            0.9.1
+       OpenCv-python           	    4.5.1.48
+       numpy	                    1.16.6
+       cv                           1.0.0
+       matplotlib                   3.3.2
+       pandas                       1.1.4
+       trans                        2.1.0
 
 # 代码功能
      a. 文件夹train_code：包含train_ctpn、train_crnn两个文件夹，前者为文本检测模型CTPN训练文件夹，后者为文字识别模型CRNN的训练文件夹。
