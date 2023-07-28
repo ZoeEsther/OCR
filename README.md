@@ -34,7 +34,6 @@ GUI界面及识别效果图：
 ![image](https://github.com/ZoeEsther/OCR/assets/119051069/d6ef03ae-4a1a-4604-ab91-f09553999f88)
 
 界面允许手动的图像预处理，其效果图：
-
 ① 旋转 
 ![image](https://github.com/ZoeEsther/OCR/assets/119051069/6cbcea72-f8d1-4ea6-a997-f3e39486c7be)
 
