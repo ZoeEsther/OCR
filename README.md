@@ -1,5 +1,5 @@
 # OCR
--------------------- 中文 --------------------
+# ---------------------------------------- 中文 ----------------------------------------
 # 本项目实现了基于CRNN和CTPN的产品识别字符的识别，主要涉及英文字母和标点符号。它包括一个可视化的GUI界面，允许自适应调整过度曝光或黑暗的图像。
 
 # 开发软件工具版本
@@ -26,8 +26,28 @@
      f. 文件夹HSV、Median、sharpness等其他均为图像处理代码；
      g. demo.py是将文本检测与文字识别结合在一起的有完整字符识别功能的代码；
 
+# 可视化效果图
+GUI界面及识别效果图：
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/0e3563e7-abfd-4798-aecc-a2aaeb78cb23)
 
--------------------- English --------------------
+文本检测效果：（ICDAR2013_Incident Scene Text 官方端到端评估平台）
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/d6ef03ae-4a1a-4604-ab91-f09553999f88)
+
+界面允许手动的图像预处理，其效果图：
+① 旋转 
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/6cbcea72-f8d1-4ea6-a997-f3e39486c7be)
+
+② 锐化
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/1a294b50-d26f-48d8-b2a8-fbaa81e2d52b)
+
+③ 色彩增强
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/e440497a-0fec-4cc2-ba14-e4dd09e244a5)
+
+④ 滤波
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/243d1970-2888-428e-8f49-66ef6c7277a9)
+
+
+# ---------------------------------------- English ----------------------------------------
 # This project realizes the recognition of product identification cahracters based on CRNN and CTPN, mainly involving English alphabet and Punctuation. It includes a visual GUI interface that allows for adaptive adjustment of overexposed or dark images.
 
 # Code Function
@@ -54,4 +74,27 @@
          trans                        2.1.0
      Training environment: pycharm + python3.7+GPU
      Test enviroment: pycharm + python3.7+CPU
-        
+
+
+# Visual rendering 
+GUI interface and recognition renderings:
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/0e3563e7-abfd-4798-aecc-a2aaeb78cb23)
+
+Text detection effect：（"ICDAR2013_Incident Scene Text” official end-to-end evaluation platform）
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/d6ef03ae-4a1a-4604-ab91-f09553999f88)
+
+The interface allows for manual image preprocessing, and its rendering are:
+① Rotation
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/6cbcea72-f8d1-4ea6-a997-f3e39486c7be)
+
+② Sharpening
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/1a294b50-d26f-48d8-b2a8-fbaa81e2d52b)
+
+③ Color enhancement
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/e440497a-0fec-4cc2-ba14-e4dd09e244a5)
+
+④ filtering
+![image](https://github.com/ZoeEsther/OCR/assets/119051069/243d1970-2888-428e-8f49-66ef6c7277a9)
+
+
+
